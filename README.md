@@ -35,13 +35,13 @@ Si vous ne souhaitez pas mettre vos noms complets dans les commits et les noms d
 
 - Chaque élève aura une Modification à faire (création, mise à jour d'un fichier).
 
-### Elève 1
+### Elève 1:Daly Dramé
   - Modification : Créer un fichier index.html avec du contenu HTML simple
 
-### Elève 2
+### Elève 2:Founemousso Sidibé
   - Modification : Créer un fichier index.html avec du contenu HTML différent de l'élève 1
 
-### Elève 3
+### Elève 3:Marietou Awa Ba
   - Faire une modification dans le fichier README.md pour remplacer son contenu par les noms des contributeurs
     - Spécifier quel élève fait quelle partie (`Elève 1 = Jane Doe`, etc.)
 
@@ -49,20 +49,22 @@ S'il n'y a pas de troisième élève, ces tâches sont à répartir entre les de
 
 ### Mise en commun
 Dans l'étape suivante, résoudre tous les éventuels conflits qui adviennent. Si un conflit advient, le mentionner dans la description du commit (pas l'intitulé mais la description)
-  - Elève 1 : fusionner la branche de l'élève 2 avec sa branche via un merge sans fast-forward
-  - Elève 2 : fusionner la branche de l'élève 3 avec sa branche via un merge avec fast-forward
-  - Elève 3 : lorsque les élèves 1 et 2 ont fini et publié leurs merges, récupérer les deux branches, et les rebase sur la sienne dans l'ordre suivant : branche de l'élève 1 puis branche de l'élève 2
-
+  - Elève 1 : Daly Dramé
+  - Elève 2 : Founemousso Sidibé
+  - Elève 3 : Marietou Awa Ba
 Une fois ces trois étapes effectuées, sur GitHub :
-  - Elève 3 : créer une Pull Request de sa branche vers master et requêter la validation des deux autres élèves
-  - Elève 2 : approuver la pull request
-  - Elève 1 : demander des changements dans la pull request avec un commentaire
-  - Elève 2 : répondre au commentaire de l'élève 1
-  - Elève 1 : résoudre le commentaire
-  - Elève 3 : fusionner les changements en utilisant le mode Squash and Merge proposé par GitHub
+  - Elève 3 : Marietou Awa Ba
+  - Elève 2 : Founemousso Sidibé
+  - Elève 1 : Daly Dramé
+  - Elève 2 : Founemousso Sidibé
+  - Elève 1 : Daly Dramé
+  - Elève 3 : Marietou Awa Ba
 
 # Note de fin
 
 Si vous avez du temps à la fin du TP, vous pouvez penser à regarder du côté des configurations de votre repository, pour peut-être rajouter une règle de protection de la branche.
 
 *A vos terminaux !*
+Modification du fichier README:
+
+
